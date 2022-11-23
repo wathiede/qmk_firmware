@@ -7,10 +7,10 @@
   "layout": "LAYOUT_all",
   "layers": [
     [
+      "KC_NO",
       "KC_MRWD",
-      "KC_VOLD",
-      "KC_VOLU",
-      "KC_MFFD"
+      "KC_MFFD",
+      "KC_MPLY"
     ]
   ]
 }
